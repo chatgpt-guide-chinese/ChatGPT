@@ -3,7 +3,7 @@
 > **更新日期：2025-03-19**             
 
 **国内能用的 [ChatGPT 中文版](https://chat.yixiaai.com)，无需翻墙即可使用 GPT-4、o1、o3及多功能应用！**   
-本指南旨在为用户提供全面的 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com)和**官网使用教程**，满足你在工作学习、日常生活中，全方面的需求~
+本指南旨在为用户提供全面的 **[ChatGPT 中文版](https://chat.lanjing.ai)使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 和**官网使用教程**，满足你在工作学习、日常生活中，全方面的需求~
 
 ---
 
